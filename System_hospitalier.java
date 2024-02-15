@@ -44,3 +44,4 @@ public class System_hospitalier {
     }
 
 }
+ // Ces méthodes retournent des chaines de caractères
